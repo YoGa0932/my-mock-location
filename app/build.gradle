@@ -3,6 +3,7 @@ plugins {
     id 'kotlin-android'
 }
 android {
+    namespace 'com.devtest.mocklocation'
     compileSdkVersion 34
     defaultConfig {
         applicationId "com.devtest.mocklocation"
